@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://imgur.com/VQIB0A9.png" title="Logo" width="400"/>
+  <img src="https://imgur.com/a/i22TrsM" title="Logo" width="400"/>
 </p>
 <p align="center">
   <b>
-    Drain
+    MEMECONOMY
   </b>
   <br/>
 <i>  Get in on the action before everybody catches up.
